@@ -1,0 +1,8 @@
+html { 
+    background: url(/Assets/Img/Background.jpg) repeat center center fixed; 
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size:contain;
+    color: white;
+}
